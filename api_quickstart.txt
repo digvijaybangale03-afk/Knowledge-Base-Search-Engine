@@ -1,0 +1,6 @@
+API Quickstart — ACME Analytics
+Base URL: https://api.acme.example/v1
+Endpoints:
+- /ingest (POST): upload documents or data for processing.
+- /query (POST): submit a natural language query over ingested content.
+Authentication: Bearer token in Authorization header.

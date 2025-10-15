@@ -1,0 +1,4 @@
+ACME Cloud Platform — Product Overview
+ACME Cloud provides a hosted data analytics platform for small and medium businesses.
+Key features: automated ETL, dashboards, role-based access, and exportable reports.
+Typical workflows: ingest CSV, schedule transformations, build dashboards, share reports.

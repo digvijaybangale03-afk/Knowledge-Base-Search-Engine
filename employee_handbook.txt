@@ -1,0 +1,3 @@
+Employee Handbook — Acme Analytics (Excerpt)
+Our mission is to provide reliable analytics tools. Employees should follow data privacy and security guidelines,
+report incidents promptly, and participate in weekly team syncs. Remote work policy allows two remote days per week.

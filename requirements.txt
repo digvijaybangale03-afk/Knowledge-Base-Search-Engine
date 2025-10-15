@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+tqdm
+pdfminer.six
+streamlit
+faiss-cpu
+sentence-transformers
+openai
+python-dotenv
+gunicorn
+transformers
+rank_bm25
